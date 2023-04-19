@@ -1,5 +1,5 @@
 # Popover API and Anchor Positioning
-![Interactive Form demo](https://github.com/teotimepacreau/Interactive-Form-Day-14-of-100DaysOfCode/blob/main/interactiveform.gif)
+![Popover API and Anchor Positioning demo](https://github.com/teotimepacreau/Popover-API-and-Anchor-Positioning-Day15-of-100DaysOfCode/blob/main/Anchor_CSS_Positioning_and_Popover_API_AdobeExpress_AdobeExpress.gif)
 
 # Project goals
 - Popover API : allows any element and itsdescendants to be rendered on top of all other content only with HTML and CSS. Setup popovertarget="foo" to make a triggerer, must be on a button to work. The popover is simply an attribute in the wanted element. Style in CSS with [popover]
